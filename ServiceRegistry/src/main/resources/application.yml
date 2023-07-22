@@ -1,0 +1,10 @@
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    #    aru lai nakhojna
+    fetch-registry: false
+    #    aafulai registry nagarna
+    register-with-eureka: false
+server:
+  port: 8761

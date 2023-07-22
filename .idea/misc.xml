@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ApiGateway" />
+    <file type="web" url="file://$PROJECT_DIR$/ApiGetway" />
+    <file type="web" url="file://$PROJECT_DIR$/ConfigServer" />
+    <file type="web" url="file://$PROJECT_DIR$/Hotel_Service" />
+    <file type="web" url="file://$PROJECT_DIR$/Rating_Service" />
+    <file type="web" url="file://$PROJECT_DIR$/ServiceRegistry" />
+    <file type="web" url="file://$PROJECT_DIR$/User-Service" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
